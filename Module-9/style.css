@@ -1,0 +1,58 @@
+h1 {
+	text-align: center;
+}
+
+p.redfont {
+	color: red;
+}
+
+p.bluefont {
+	color: blue;
+}
+
+p.greenfont {
+	color: green;
+}
+
+
+p.styledFont {
+	color: green;
+}
+
+p.smalltext {
+	font-size: 65px;
+}
+
+p.tinytext {
+	font-size: 5px;
+}
+
+p.centertext {
+	text-align: center;
+}
+
+p.boldtext {
+	font-weight: bold;
+}
+
+p.specialletters {
+	font-family: Helvetica;
+}
+
+p.bigboldo {
+	font-size: 50px;
+	color: orange;
+	font-weight: bold;
+}
+
+#styledImage {
+	border-style: solid;
+	border-width: 5px;
+	border-color: red;
+}
+
+	
+
+
+
+	

@@ -1,0 +1,20 @@
+CSS - HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices.
+
+Angular - a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations
+
+Spring Framework - is an open source application framework and inversion of control container for the Java platform
+
+PHP is a general-purpose scripting language that is especially suited to server-side web development, in which case PHP generally runs on a web server.
+
+Laravel - a free, open-source[3] PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern and based on Symfony
+
+AJAX - the primary way that JavaScript in a web page makes an in-page request to a server. ... AJAX stands for Asynchronous JavaScript and XML, and is a technology supported by native 
+
+MVC - The Model-View-Controller (MVC) is an architectural pattern that separates an application into three main logical components: the model, the view, and the controller. Each of these components are built to handle specific development aspects of an application.
+
+JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate.
+
+Webpack - Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets representing those modules
+
+Mongo - MongoDB stores data in flexible, JSON-like documents, meaning fields can vary from document to document and data structure can be changed over time.
+
